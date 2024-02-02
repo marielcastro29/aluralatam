@@ -1,0 +1,9 @@
+h1{
+    background-color: pink;
+    color:black;
+    font-size: 40px;
+}
+
+th, td{
+    border: 3px solid palevioletred;
+}
